@@ -4,7 +4,7 @@
 [![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg)](https://github.com/Solido/awesome-flutter)
 ![GitHub downloads](https://img.shields.io/github/downloads/letienkhang/progessloadingbutton/total.svg)
 ![GitHub issues](https://img.shields.io/github/issues/letienkhang/progessloadingbutton.svg)
-![GitHub commits](https://img.shields.io/github/commits-since/letienkhang/progessloadingbutton/v0.01.svg)
+![GitHub watchers](https://img.shields.io/github/watchers/letienkhang/progessloadingbutton.svg)
 
 **progess_loading_button** is a Flutter package with a simple implementation of an animated loading button, complete with success animations.
 
