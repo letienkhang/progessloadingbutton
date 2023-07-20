@@ -1,6 +1,6 @@
 # progess_loading_button
 
--https://img.shields.io/badge/just%20the%20message-8A2BE2
+![Message](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 **progess_loading_button** is a Flutter package with a simple implementation of an animated loading button, complete with success animations.
 
