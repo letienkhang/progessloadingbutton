@@ -1,6 +1,6 @@
-name: progessloadingbutton
+name: animation_loading_button
 description: is a Flutter package with a simple implementation of an animated loading button, complete with success animations.
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/letienkhang/progessloadingbutton
 repository: https://github.com/letienkhang/progessloadingbutton
 

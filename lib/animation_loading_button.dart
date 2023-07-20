@@ -1,5 +1,4 @@
-library loadingbutton;
-
+library animation_loading_button;
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
@@ -328,4 +327,3 @@ enum LoadingType {
   circleSpinIndicator,
   circleRingIndicator
 }
-
