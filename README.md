@@ -8,6 +8,8 @@
 
 **progess_loading_button** is a Flutter package with a simple implementation of an animated loading button, complete with success animations.
 
+![] (https://github.com/letienkhang/progessloadingbutton/issues/1#issue-1813103993)
+
 ## Getting Started
 Follow these steps to use this package
 
@@ -55,19 +57,4 @@ Source code and example of this library can be found in git:
 ```
 $ git clone https://github.com/letienkhang/progessloadingbutton.git
 ```
-### Examples
-You can check more examples of using this package [here](example/lib)
-
-<br>
-<div align="center" >
-  <p>Thanks to all contributors of this package</p>
-  <a href="https://github.com/Frezyx/group_button/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Frezyx/group_button" />
-  </a>
-</div>
-<br>
-
-For help getting started with 😍 Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
 

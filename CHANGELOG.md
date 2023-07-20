@@ -1,3 +1,8 @@
+## 0.0.2
+
+Tiny Changes
+* Update readme & demo
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+First usable release.
