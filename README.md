@@ -8,7 +8,7 @@
 
 **progessloadingbutton** is a Flutter package with a simple implementation of an animated loading button, complete with success animations.
 
-<video src='https://github.com/letienkhang/progessloadingbutton/issues/1#issue-1813103993' width=180/>
+<video src='https://github.com/letienkhang/progessloadingbutton/assets/44312440/f9308a89-9b3e-41e3-a9ee-8fbf1146afd3' width=180/>
 
 ## Getting Started
 Follow these steps to use this package
